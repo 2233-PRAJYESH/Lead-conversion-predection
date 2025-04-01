@@ -1,0 +1,1001 @@
+lead_id,lead_source,total_time_spent,pages_visited,email_opened,last_activity,lead_score,converted
+1,Cold Call,349,2,Yes,Clicked Ad,65,1
+2,Cold Call,154,34,No,Downloaded Brochure,37,1
+3,Social Media,166,7,Yes,Clicked Ad,53,0
+4,Cold Call,152,38,Yes,Contacted Support,71,1
+5,Cold Call,156,24,No,Submitted Form,64,1
+6,Website,290,25,No,Submitted Form,26,0
+7,Website,297,48,Yes,Downloaded Brochure,50,0
+8,Social Media,430,5,No,Submitted Form,14,1
+9,Website,437,47,Yes,Contacted Support,45,0
+10,Email,312,14,Yes,Clicked Ad,68,0
+11,Cold Call,334,34,Yes,Clicked Ad,48,1
+12,Social Media,75,1,No,Clicked Ad,60,1
+13,Email,256,6,No,Downloaded Brochure,29,0
+14,Website,80,48,Yes,Submitted Form,91,0
+15,Referral,463,11,Yes,Submitted Form,22,0
+16,Cold Call,360,23,No,Contacted Support,54,1
+17,Social Media,285,5,No,Submitted Form,28,1
+18,Social Media,432,16,No,Downloaded Brochure,25,0
+19,Email,96,37,Yes,Contacted Support,17,0
+20,Email,16,6,Yes,Clicked Ad,29,0
+21,Email,303,36,No,Downloaded Brochure,40,0
+22,Website,135,25,No,Contacted Support,12,0
+23,Referral,183,33,Yes,Downloaded Brochure,31,0
+24,Email,86,34,No,Contacted Support,23,0
+25,Social Media,153,31,Yes,Clicked Ad,93,0
+26,Website,165,16,Yes,Submitted Form,50,0
+27,Social Media,267,20,Yes,Clicked Ad,19,0
+28,Social Media,82,18,No,Submitted Form,33,1
+29,Website,179,19,No,Submitted Form,86,0
+30,Cold Call,420,49,Yes,Submitted Form,50,0
+31,Referral,251,42,Yes,Clicked Ad,37,1
+32,Cold Call,395,41,No,Clicked Ad,80,0
+33,Social Media,91,23,Yes,Downloaded Brochure,73,0
+34,Cold Call,448,47,Yes,Contacted Support,87,1
+35,Referral,496,8,No,Clicked Ad,31,0
+36,Cold Call,37,34,No,Contacted Support,22,0
+37,Cold Call,286,7,No,Downloaded Brochure,35,1
+38,Website,229,29,No,Clicked Ad,28,1
+39,Cold Call,377,19,Yes,Downloaded Brochure,55,0
+40,Cold Call,413,45,No,Submitted Form,32,0
+41,Website,17,17,No,Clicked Ad,81,0
+42,Referral,57,41,Yes,Contacted Support,29,0
+43,Referral,326,15,No,Submitted Form,21,0
+44,Website,273,6,No,Clicked Ad,88,0
+45,Social Media,471,29,Yes,Clicked Ad,13,0
+46,Social Media,384,27,Yes,Clicked Ad,25,1
+47,Email,459,37,No,Contacted Support,34,0
+48,Referral,253,46,Yes,Clicked Ad,74,0
+49,Referral,493,5,Yes,Downloaded Brochure,94,0
+50,Referral,388,11,No,Contacted Support,78,0
+51,Email,134,34,No,Contacted Support,66,0
+52,Referral,262,23,No,Clicked Ad,99,0
+53,Social Media,148,22,No,Downloaded Brochure,77,0
+54,Email,347,40,Yes,Contacted Support,78,0
+55,Social Media,71,28,Yes,Contacted Support,83,0
+56,Referral,450,21,Yes,Downloaded Brochure,10,0
+57,Cold Call,165,12,No,Contacted Support,32,0
+58,Email,156,17,No,Downloaded Brochure,71,1
+59,Website,107,1,Yes,Submitted Form,61,0
+60,Website,245,24,Yes,Clicked Ad,84,0
+61,Cold Call,386,19,Yes,Clicked Ad,88,0
+62,Social Media,377,40,Yes,Submitted Form,54,1
+63,Referral,452,17,No,Downloaded Brochure,46,0
+64,Cold Call,159,20,Yes,Downloaded Brochure,66,1
+65,Social Media,124,41,Yes,Downloaded Brochure,74,1
+66,Website,42,26,Yes,Submitted Form,88,0
+67,Cold Call,34,14,No,Contacted Support,67,0
+68,Website,472,20,No,Submitted Form,37,0
+69,Email,169,15,No,Contacted Support,55,0
+70,Website,334,30,Yes,Submitted Form,40,1
+71,Referral,332,17,No,Downloaded Brochure,19,1
+72,Email,223,17,Yes,Clicked Ad,44,0
+73,Social Media,128,30,No,Clicked Ad,65,0
+74,Social Media,240,19,No,Downloaded Brochure,43,1
+75,Referral,331,24,No,Submitted Form,44,1
+76,Referral,327,48,Yes,Downloaded Brochure,12,0
+77,Email,399,13,Yes,Submitted Form,80,0
+78,Social Media,340,23,Yes,Downloaded Brochure,57,0
+79,Referral,327,44,No,Contacted Support,30,1
+80,Referral,490,4,Yes,Contacted Support,45,0
+81,Referral,208,27,No,Contacted Support,14,1
+82,Website,196,33,No,Submitted Form,81,0
+83,Email,130,37,No,Submitted Form,29,0
+84,Email,292,13,Yes,Clicked Ad,85,0
+85,Email,239,27,Yes,Downloaded Brochure,40,0
+86,Referral,148,26,Yes,Clicked Ad,74,1
+87,Website,89,5,Yes,Clicked Ad,23,1
+88,Website,195,17,No,Contacted Support,15,1
+89,Referral,336,17,No,Downloaded Brochure,90,1
+90,Social Media,305,13,No,Contacted Support,84,0
+91,Social Media,413,12,No,Submitted Form,72,0
+92,Email,332,9,Yes,Clicked Ad,72,0
+93,Email,79,20,No,Contacted Support,99,0
+94,Referral,12,39,No,Downloaded Brochure,57,0
+95,Cold Call,116,20,Yes,Clicked Ad,61,0
+96,Email,225,23,Yes,Downloaded Brochure,82,0
+97,Email,287,17,Yes,Submitted Form,10,1
+98,Website,154,11,No,Downloaded Brochure,93,0
+99,Cold Call,6,36,No,Clicked Ad,71,0
+100,Email,245,19,Yes,Contacted Support,13,0
+101,Email,422,38,No,Clicked Ad,59,1
+102,Social Media,305,1,Yes,Clicked Ad,69,0
+103,Cold Call,240,27,Yes,Downloaded Brochure,72,1
+104,Website,348,40,No,Clicked Ad,38,1
+105,Social Media,236,4,No,Downloaded Brochure,20,1
+106,Cold Call,197,29,Yes,Downloaded Brochure,99,0
+107,Website,408,7,No,Downloaded Brochure,97,1
+108,Referral,69,33,Yes,Contacted Support,54,0
+109,Email,113,15,Yes,Contacted Support,30,0
+110,Email,337,19,Yes,Clicked Ad,51,0
+111,Website,122,39,Yes,Contacted Support,57,1
+112,Email,283,10,Yes,Clicked Ad,58,0
+113,Website,390,31,No,Submitted Form,21,0
+114,Email,365,30,Yes,Submitted Form,83,0
+115,Email,224,6,Yes,Contacted Support,60,0
+116,Social Media,273,7,No,Clicked Ad,40,1
+117,Cold Call,201,14,Yes,Downloaded Brochure,15,1
+118,Website,453,9,Yes,Submitted Form,16,0
+119,Social Media,407,13,Yes,Submitted Form,43,0
+120,Website,264,14,No,Clicked Ad,15,1
+121,Email,230,32,Yes,Clicked Ad,15,1
+122,Email,367,40,No,Submitted Form,18,0
+123,Cold Call,465,27,Yes,Clicked Ad,33,0
+124,Email,283,29,No,Contacted Support,36,0
+125,Referral,124,22,No,Submitted Form,52,0
+126,Social Media,365,6,Yes,Downloaded Brochure,28,0
+127,Cold Call,123,38,Yes,Contacted Support,83,1
+128,Cold Call,305,7,Yes,Clicked Ad,16,1
+129,Referral,395,6,Yes,Clicked Ad,77,0
+130,Website,11,36,Yes,Downloaded Brochure,93,0
+131,Cold Call,270,39,Yes,Contacted Support,18,0
+132,Email,119,9,Yes,Clicked Ad,17,1
+133,Cold Call,385,41,No,Submitted Form,32,0
+134,Cold Call,38,2,No,Downloaded Brochure,57,0
+135,Website,284,48,Yes,Clicked Ad,31,1
+136,Referral,264,19,No,Clicked Ad,47,0
+137,Website,229,22,No,Contacted Support,94,1
+138,Cold Call,454,40,Yes,Contacted Support,36,0
+139,Cold Call,482,48,No,Submitted Form,45,0
+140,Cold Call,439,3,Yes,Clicked Ad,79,0
+141,Website,488,24,No,Contacted Support,16,0
+142,Cold Call,484,26,No,Clicked Ad,14,0
+143,Referral,307,35,No,Submitted Form,11,0
+144,Email,29,31,No,Downloaded Brochure,13,0
+145,Email,80,41,No,Contacted Support,29,1
+146,Social Media,23,36,No,Downloaded Brochure,24,0
+147,Social Media,490,2,No,Clicked Ad,19,0
+148,Referral,469,34,Yes,Clicked Ad,90,0
+149,Social Media,401,47,Yes,Submitted Form,92,0
+150,Email,63,28,Yes,Submitted Form,37,0
+151,Cold Call,96,21,No,Submitted Form,29,0
+152,Email,251,9,No,Clicked Ad,63,0
+153,Website,75,36,No,Contacted Support,18,0
+154,Cold Call,224,31,Yes,Downloaded Brochure,57,1
+155,Cold Call,453,21,No,Clicked Ad,27,0
+156,Referral,399,32,Yes,Clicked Ad,83,1
+157,Email,118,26,No,Submitted Form,73,0
+158,Social Media,204,15,Yes,Contacted Support,74,0
+159,Cold Call,459,8,Yes,Clicked Ad,27,0
+160,Email,445,44,No,Contacted Support,82,0
+161,Referral,105,39,No,Clicked Ad,38,1
+162,Social Media,239,47,No,Downloaded Brochure,81,0
+163,Cold Call,403,27,Yes,Downloaded Brochure,35,1
+164,Referral,186,22,Yes,Submitted Form,49,0
+165,Referral,400,43,No,Submitted Form,98,0
+166,Social Media,160,9,No,Contacted Support,30,0
+167,Social Media,329,49,Yes,Contacted Support,82,1
+168,Referral,271,35,No,Clicked Ad,36,1
+169,Social Media,475,23,Yes,Downloaded Brochure,25,1
+170,Website,47,19,No,Clicked Ad,67,1
+171,Social Media,27,39,Yes,Contacted Support,61,0
+172,Email,12,32,No,Submitted Form,62,0
+173,Email,299,24,No,Contacted Support,44,0
+174,Cold Call,340,26,Yes,Contacted Support,98,0
+175,Website,128,32,No,Contacted Support,71,1
+176,Cold Call,213,24,Yes,Clicked Ad,19,0
+177,Cold Call,22,1,No,Submitted Form,86,1
+178,Social Media,29,19,Yes,Contacted Support,77,0
+179,Email,232,2,No,Submitted Form,54,0
+180,Website,477,29,No,Clicked Ad,24,0
+181,Email,450,13,No,Submitted Form,20,0
+182,Referral,306,17,No,Submitted Form,50,0
+183,Cold Call,144,10,No,Clicked Ad,74,0
+184,Social Media,185,39,No,Clicked Ad,24,0
+185,Email,250,21,No,Submitted Form,56,0
+186,Referral,168,1,No,Clicked Ad,98,0
+187,Referral,159,28,No,Contacted Support,84,1
+188,Website,142,42,Yes,Contacted Support,54,0
+189,Cold Call,381,40,Yes,Contacted Support,44,0
+190,Cold Call,207,21,No,Clicked Ad,79,0
+191,Social Media,231,4,Yes,Downloaded Brochure,86,0
+192,Email,357,33,No,Contacted Support,68,0
+193,Cold Call,346,5,Yes,Downloaded Brochure,60,0
+194,Referral,94,42,No,Submitted Form,73,0
+195,Referral,191,36,Yes,Submitted Form,70,0
+196,Referral,366,39,Yes,Submitted Form,24,1
+197,Website,65,41,No,Clicked Ad,81,1
+198,Cold Call,57,1,No,Contacted Support,39,0
+199,Website,461,2,Yes,Downloaded Brochure,47,0
+200,Social Media,60,29,Yes,Clicked Ad,14,0
+201,Cold Call,419,39,Yes,Clicked Ad,83,0
+202,Email,466,16,Yes,Contacted Support,60,0
+203,Email,17,49,No,Submitted Form,36,0
+204,Social Media,172,38,Yes,Downloaded Brochure,29,1
+205,Referral,348,21,Yes,Submitted Form,11,0
+206,Website,262,5,No,Contacted Support,60,0
+207,Website,51,14,Yes,Clicked Ad,38,0
+208,Email,144,42,No,Downloaded Brochure,16,0
+209,Website,441,10,No,Downloaded Brochure,36,0
+210,Cold Call,356,4,No,Contacted Support,39,0
+211,Cold Call,407,43,No,Clicked Ad,26,0
+212,Website,294,8,Yes,Clicked Ad,49,1
+213,Website,200,5,No,Clicked Ad,17,0
+214,Referral,436,36,No,Clicked Ad,39,0
+215,Social Media,494,31,No,Clicked Ad,91,0
+216,Referral,285,34,Yes,Submitted Form,40,1
+217,Website,9,19,Yes,Clicked Ad,40,1
+218,Social Media,327,24,Yes,Downloaded Brochure,19,0
+219,Referral,490,21,No,Clicked Ad,22,0
+220,Website,257,17,No,Submitted Form,52,1
+221,Cold Call,262,16,Yes,Downloaded Brochure,25,0
+222,Email,140,7,Yes,Contacted Support,13,0
+223,Website,235,49,Yes,Submitted Form,14,1
+224,Email,193,40,Yes,Clicked Ad,56,1
+225,Social Media,7,35,Yes,Downloaded Brochure,56,1
+226,Cold Call,43,15,No,Clicked Ad,78,1
+227,Cold Call,2,28,Yes,Clicked Ad,27,0
+228,Email,134,44,Yes,Clicked Ad,67,0
+229,Email,168,48,No,Contacted Support,12,1
+230,Social Media,306,8,Yes,Clicked Ad,50,0
+231,Social Media,109,25,Yes,Contacted Support,91,1
+232,Referral,61,29,Yes,Clicked Ad,89,0
+233,Email,274,2,Yes,Submitted Form,77,1
+234,Social Media,392,34,No,Clicked Ad,75,0
+235,Email,376,20,Yes,Downloaded Brochure,53,0
+236,Website,362,40,No,Contacted Support,15,0
+237,Email,129,28,Yes,Submitted Form,23,1
+238,Email,63,16,No,Contacted Support,84,0
+239,Cold Call,484,7,Yes,Clicked Ad,52,0
+240,Social Media,125,36,Yes,Clicked Ad,30,0
+241,Social Media,26,12,No,Downloaded Brochure,19,0
+242,Cold Call,361,14,No,Contacted Support,32,1
+243,Referral,434,46,No,Submitted Form,84,1
+244,Cold Call,476,36,Yes,Downloaded Brochure,65,1
+245,Referral,470,42,Yes,Downloaded Brochure,82,0
+246,Email,41,48,No,Submitted Form,26,1
+247,Website,393,45,Yes,Downloaded Brochure,71,0
+248,Cold Call,374,2,No,Downloaded Brochure,99,0
+249,Website,127,23,No,Clicked Ad,54,0
+250,Website,429,23,Yes,Submitted Form,31,1
+251,Cold Call,81,43,Yes,Contacted Support,69,0
+252,Cold Call,417,9,Yes,Clicked Ad,76,1
+253,Email,475,15,No,Submitted Form,75,0
+254,Email,271,49,No,Contacted Support,93,1
+255,Website,380,6,Yes,Downloaded Brochure,49,0
+256,Cold Call,51,22,No,Contacted Support,13,1
+257,Social Media,255,31,Yes,Clicked Ad,54,1
+258,Social Media,209,32,No,Contacted Support,61,1
+259,Email,390,21,No,Clicked Ad,89,1
+260,Social Media,409,41,Yes,Downloaded Brochure,45,0
+261,Social Media,109,9,Yes,Clicked Ad,74,1
+262,Cold Call,362,28,No,Submitted Form,51,1
+263,Social Media,128,26,No,Downloaded Brochure,15,1
+264,Social Media,261,9,Yes,Clicked Ad,79,0
+265,Cold Call,120,14,No,Submitted Form,33,0
+266,Email,486,41,No,Downloaded Brochure,13,1
+267,Cold Call,51,29,Yes,Contacted Support,65,0
+268,Referral,438,30,Yes,Submitted Form,50,0
+269,Website,20,41,No,Contacted Support,37,1
+270,Website,9,44,Yes,Contacted Support,74,0
+271,Referral,482,13,Yes,Clicked Ad,63,0
+272,Social Media,416,45,No,Submitted Form,11,0
+273,Email,312,43,No,Downloaded Brochure,93,0
+274,Referral,385,16,No,Submitted Form,46,1
+275,Referral,185,7,No,Submitted Form,20,1
+276,Website,369,1,Yes,Contacted Support,19,1
+277,Cold Call,422,35,No,Downloaded Brochure,33,1
+278,Social Media,472,45,Yes,Contacted Support,46,0
+279,Website,282,43,No,Contacted Support,42,1
+280,Website,238,46,Yes,Contacted Support,36,1
+281,Social Media,305,10,No,Submitted Form,29,0
+282,Website,7,4,No,Submitted Form,50,0
+283,Referral,371,10,Yes,Contacted Support,58,0
+284,Cold Call,107,18,Yes,Submitted Form,31,1
+285,Social Media,168,35,No,Downloaded Brochure,21,1
+286,Email,145,44,Yes,Contacted Support,31,0
+287,Referral,105,16,No,Contacted Support,47,0
+288,Email,195,25,Yes,Downloaded Brochure,16,0
+289,Cold Call,276,32,Yes,Downloaded Brochure,14,0
+290,Website,151,2,No,Contacted Support,68,0
+291,Email,63,26,Yes,Clicked Ad,17,0
+292,Social Media,91,24,Yes,Submitted Form,69,0
+293,Cold Call,199,26,No,Clicked Ad,63,0
+294,Social Media,463,40,Yes,Downloaded Brochure,14,0
+295,Social Media,272,31,Yes,Contacted Support,70,0
+296,Cold Call,153,27,Yes,Contacted Support,81,1
+297,Website,485,17,Yes,Contacted Support,77,0
+298,Social Media,101,27,No,Submitted Form,72,0
+299,Social Media,361,18,No,Submitted Form,28,1
+300,Website,423,23,No,Submitted Form,41,0
+301,Cold Call,53,8,No,Submitted Form,36,0
+302,Email,107,24,No,Clicked Ad,61,0
+303,Cold Call,281,32,No,Submitted Form,63,0
+304,Cold Call,87,2,No,Submitted Form,63,0
+305,Cold Call,20,2,No,Contacted Support,56,0
+306,Website,426,9,No,Clicked Ad,32,0
+307,Cold Call,191,24,No,Contacted Support,77,0
+308,Email,304,1,Yes,Submitted Form,71,0
+309,Cold Call,216,33,Yes,Downloaded Brochure,48,0
+310,Referral,44,47,Yes,Submitted Form,69,0
+311,Website,210,24,Yes,Clicked Ad,67,1
+312,Email,228,8,Yes,Clicked Ad,32,0
+313,Social Media,1,14,No,Contacted Support,68,0
+314,Website,197,37,Yes,Submitted Form,98,0
+315,Referral,332,15,No,Downloaded Brochure,49,0
+316,Social Media,442,24,No,Submitted Form,22,1
+317,Cold Call,404,22,No,Submitted Form,63,0
+318,Website,3,25,No,Downloaded Brochure,49,1
+319,Social Media,476,3,No,Downloaded Brochure,67,0
+320,Cold Call,349,2,Yes,Downloaded Brochure,49,0
+321,Website,72,10,No,Clicked Ad,96,0
+322,Email,335,32,Yes,Downloaded Brochure,86,1
+323,Website,430,18,Yes,Submitted Form,17,0
+324,Referral,198,18,No,Submitted Form,66,1
+325,Social Media,126,27,Yes,Clicked Ad,74,1
+326,Referral,39,8,No,Submitted Form,52,0
+327,Cold Call,385,36,No,Submitted Form,52,0
+328,Cold Call,49,41,Yes,Downloaded Brochure,75,0
+329,Referral,163,14,No,Clicked Ad,91,0
+330,Social Media,217,17,No,Submitted Form,82,1
+331,Cold Call,143,7,Yes,Downloaded Brochure,11,1
+332,Cold Call,374,44,No,Clicked Ad,99,0
+333,Referral,71,25,Yes,Contacted Support,41,1
+334,Email,170,49,Yes,Contacted Support,37,0
+335,Social Media,156,3,Yes,Clicked Ad,86,0
+336,Website,260,42,No,Submitted Form,28,0
+337,Website,157,17,No,Downloaded Brochure,68,0
+338,Social Media,422,1,No,Contacted Support,50,1
+339,Referral,307,22,Yes,Contacted Support,54,1
+340,Social Media,296,32,No,Clicked Ad,77,0
+341,Referral,301,28,No,Contacted Support,29,0
+342,Referral,221,12,Yes,Clicked Ad,23,1
+343,Referral,392,46,Yes,Contacted Support,89,0
+344,Social Media,162,47,No,Downloaded Brochure,95,0
+345,Social Media,79,40,No,Downloaded Brochure,78,0
+346,Website,126,11,Yes,Contacted Support,31,0
+347,Social Media,8,42,Yes,Clicked Ad,86,1
+348,Email,107,40,Yes,Submitted Form,12,1
+349,Email,144,3,No,Contacted Support,47,0
+350,Social Media,383,46,Yes,Submitted Form,12,0
+351,Website,192,15,No,Contacted Support,67,0
+352,Social Media,212,19,Yes,Submitted Form,38,1
+353,Referral,407,29,No,Clicked Ad,99,0
+354,Email,386,30,No,Clicked Ad,40,1
+355,Cold Call,73,12,No,Downloaded Brochure,61,0
+356,Referral,495,13,Yes,Submitted Form,63,0
+357,Email,206,26,No,Submitted Form,38,0
+358,Cold Call,430,42,Yes,Downloaded Brochure,19,1
+359,Referral,494,37,Yes,Contacted Support,21,1
+360,Email,200,30,Yes,Clicked Ad,69,0
+361,Website,295,6,Yes,Contacted Support,80,0
+362,Referral,247,34,Yes,Downloaded Brochure,59,0
+363,Email,227,1,No,Downloaded Brochure,10,0
+364,Cold Call,498,49,Yes,Contacted Support,25,0
+365,Referral,461,16,Yes,Clicked Ad,19,0
+366,Cold Call,476,12,Yes,Downloaded Brochure,90,0
+367,Website,181,41,Yes,Contacted Support,49,0
+368,Social Media,185,13,Yes,Contacted Support,39,0
+369,Cold Call,135,47,No,Submitted Form,12,0
+370,Social Media,147,44,Yes,Contacted Support,39,1
+371,Cold Call,93,6,Yes,Downloaded Brochure,36,0
+372,Referral,7,17,No,Downloaded Brochure,94,1
+373,Cold Call,296,21,No,Downloaded Brochure,89,0
+374,Referral,433,2,No,Submitted Form,94,1
+375,Cold Call,219,28,Yes,Submitted Form,13,0
+376,Website,270,23,No,Submitted Form,84,1
+377,Social Media,36,17,Yes,Clicked Ad,44,0
+378,Social Media,349,30,Yes,Clicked Ad,72,0
+379,Email,162,44,No,Contacted Support,84,0
+380,Email,94,18,Yes,Downloaded Brochure,78,0
+381,Website,290,22,Yes,Downloaded Brochure,64,1
+382,Email,444,33,Yes,Submitted Form,73,0
+383,Social Media,380,22,No,Contacted Support,40,1
+384,Referral,365,11,No,Submitted Form,95,1
+385,Referral,112,18,Yes,Clicked Ad,62,0
+386,Website,482,34,Yes,Submitted Form,75,1
+387,Website,103,6,No,Contacted Support,24,1
+388,Email,48,45,No,Downloaded Brochure,28,1
+389,Cold Call,121,39,Yes,Submitted Form,74,0
+390,Social Media,69,26,No,Clicked Ad,19,0
+391,Email,25,2,Yes,Downloaded Brochure,46,0
+392,Referral,202,23,No,Clicked Ad,37,0
+393,Cold Call,220,34,Yes,Downloaded Brochure,58,1
+394,Email,50,11,Yes,Contacted Support,82,0
+395,Social Media,250,36,No,Clicked Ad,74,0
+396,Referral,490,26,No,Submitted Form,48,0
+397,Cold Call,219,40,No,Contacted Support,36,0
+398,Email,239,39,Yes,Contacted Support,63,0
+399,Website,53,11,Yes,Submitted Form,55,1
+400,Website,479,48,No,Clicked Ad,71,1
+401,Email,149,27,No,Contacted Support,64,0
+402,Cold Call,261,4,No,Submitted Form,10,1
+403,Email,65,46,Yes,Downloaded Brochure,67,0
+404,Email,172,24,No,Submitted Form,18,0
+405,Referral,15,34,Yes,Submitted Form,26,0
+406,Email,419,18,Yes,Contacted Support,21,1
+407,Cold Call,124,6,No,Clicked Ad,88,0
+408,Website,141,23,No,Contacted Support,75,1
+409,Referral,373,12,Yes,Downloaded Brochure,26,0
+410,Email,433,30,No,Clicked Ad,81,0
+411,Referral,439,38,No,Clicked Ad,55,0
+412,Website,326,2,Yes,Submitted Form,39,0
+413,Referral,402,35,No,Submitted Form,20,0
+414,Website,435,5,No,Submitted Form,87,1
+415,Website,365,8,Yes,Downloaded Brochure,60,1
+416,Email,150,39,Yes,Submitted Form,96,0
+417,Cold Call,255,28,No,Clicked Ad,32,0
+418,Social Media,8,44,No,Clicked Ad,75,1
+419,Cold Call,476,38,Yes,Submitted Form,97,1
+420,Referral,436,11,No,Submitted Form,12,1
+421,Cold Call,173,26,No,Contacted Support,77,1
+422,Cold Call,354,6,Yes,Clicked Ad,68,0
+423,Cold Call,273,19,No,Contacted Support,70,1
+424,Cold Call,281,5,Yes,Clicked Ad,37,1
+425,Referral,54,15,Yes,Downloaded Brochure,91,0
+426,Referral,323,23,No,Contacted Support,41,0
+427,Social Media,462,39,No,Clicked Ad,72,0
+428,Website,335,4,Yes,Downloaded Brochure,10,0
+429,Email,494,43,No,Downloaded Brochure,98,1
+430,Website,26,13,Yes,Contacted Support,11,0
+431,Social Media,349,12,No,Contacted Support,64,0
+432,Cold Call,192,1,No,Clicked Ad,14,0
+433,Social Media,262,7,No,Submitted Form,29,1
+434,Referral,259,16,Yes,Submitted Form,86,0
+435,Email,204,23,Yes,Submitted Form,27,0
+436,Email,208,43,Yes,Submitted Form,45,0
+437,Website,415,48,No,Downloaded Brochure,76,1
+438,Website,254,1,Yes,Downloaded Brochure,83,0
+439,Social Media,446,30,Yes,Submitted Form,38,0
+440,Referral,483,15,No,Clicked Ad,75,0
+441,Website,245,7,Yes,Contacted Support,58,1
+442,Website,91,2,Yes,Clicked Ad,13,0
+443,Cold Call,24,31,Yes,Clicked Ad,35,0
+444,Social Media,181,38,No,Submitted Form,43,0
+445,Social Media,441,35,No,Clicked Ad,95,0
+446,Social Media,174,37,Yes,Clicked Ad,33,0
+447,Cold Call,285,28,No,Clicked Ad,12,0
+448,Email,73,29,Yes,Contacted Support,15,0
+449,Referral,235,20,Yes,Contacted Support,32,1
+450,Email,210,3,No,Downloaded Brochure,42,0
+451,Referral,37,23,Yes,Clicked Ad,39,0
+452,Email,468,6,Yes,Contacted Support,93,0
+453,Email,300,16,No,Contacted Support,97,0
+454,Social Media,213,28,Yes,Downloaded Brochure,34,1
+455,Website,236,33,Yes,Clicked Ad,55,0
+456,Referral,369,34,Yes,Downloaded Brochure,52,0
+457,Website,21,11,Yes,Submitted Form,77,0
+458,Social Media,69,44,No,Contacted Support,31,1
+459,Social Media,460,39,No,Submitted Form,73,0
+460,Referral,367,35,Yes,Submitted Form,17,0
+461,Social Media,435,8,No,Clicked Ad,39,0
+462,Website,343,13,Yes,Downloaded Brochure,40,0
+463,Social Media,223,11,No,Contacted Support,65,1
+464,Referral,147,20,Yes,Contacted Support,22,0
+465,Email,12,1,Yes,Contacted Support,34,0
+466,Cold Call,63,26,Yes,Clicked Ad,45,0
+467,Website,261,23,Yes,Downloaded Brochure,77,0
+468,Email,245,30,No,Downloaded Brochure,98,0
+469,Referral,328,43,No,Downloaded Brochure,52,0
+470,Cold Call,190,22,No,Contacted Support,72,0
+471,Cold Call,182,41,Yes,Submitted Form,41,1
+472,Email,107,28,Yes,Downloaded Brochure,28,0
+473,Social Media,21,5,Yes,Downloaded Brochure,13,0
+474,Website,237,32,Yes,Downloaded Brochure,68,1
+475,Website,359,3,Yes,Clicked Ad,16,0
+476,Referral,481,38,Yes,Clicked Ad,95,1
+477,Social Media,39,40,No,Downloaded Brochure,89,0
+478,Website,263,32,No,Clicked Ad,75,0
+479,Cold Call,84,49,Yes,Submitted Form,67,0
+480,Website,391,13,Yes,Downloaded Brochure,85,0
+481,Cold Call,83,3,No,Clicked Ad,56,1
+482,Social Media,332,49,No,Contacted Support,86,1
+483,Email,408,45,No,Downloaded Brochure,44,1
+484,Website,36,32,No,Submitted Form,89,0
+485,Referral,373,5,No,Submitted Form,26,0
+486,Cold Call,335,48,Yes,Contacted Support,81,0
+487,Cold Call,256,13,No,Contacted Support,97,1
+488,Social Media,450,1,Yes,Downloaded Brochure,51,0
+489,Social Media,334,39,Yes,Contacted Support,49,1
+490,Website,150,15,Yes,Contacted Support,16,1
+491,Cold Call,287,28,Yes,Clicked Ad,75,0
+492,Website,20,47,Yes,Downloaded Brochure,24,1
+493,Referral,34,6,No,Downloaded Brochure,76,0
+494,Social Media,72,11,Yes,Clicked Ad,77,1
+495,Cold Call,252,44,No,Clicked Ad,89,1
+496,Referral,444,33,No,Clicked Ad,36,0
+497,Website,364,28,Yes,Submitted Form,50,0
+498,Social Media,404,42,No,Clicked Ad,77,0
+499,Referral,332,11,No,Contacted Support,49,0
+500,Cold Call,499,7,No,Submitted Form,64,0
+501,Email,461,46,Yes,Contacted Support,67,1
+502,Social Media,102,39,No,Clicked Ad,87,0
+503,Referral,147,5,Yes,Contacted Support,40,0
+504,Cold Call,414,31,Yes,Contacted Support,18,1
+505,Cold Call,38,7,No,Clicked Ad,51,1
+506,Referral,34,23,No,Clicked Ad,51,0
+507,Website,175,49,No,Downloaded Brochure,94,1
+508,Email,403,11,Yes,Clicked Ad,18,0
+509,Website,463,25,No,Submitted Form,22,0
+510,Website,359,3,No,Downloaded Brochure,73,0
+511,Social Media,206,5,Yes,Downloaded Brochure,70,0
+512,Email,471,30,No,Submitted Form,16,0
+513,Email,38,43,Yes,Contacted Support,76,0
+514,Social Media,224,21,No,Downloaded Brochure,11,0
+515,Website,121,15,No,Downloaded Brochure,42,0
+516,Cold Call,267,19,No,Contacted Support,90,1
+517,Referral,143,49,No,Submitted Form,53,0
+518,Social Media,106,28,No,Contacted Support,30,0
+519,Email,339,11,No,Downloaded Brochure,78,1
+520,Cold Call,409,18,No,Contacted Support,97,1
+521,Social Media,231,21,No,Clicked Ad,84,0
+522,Email,460,24,No,Downloaded Brochure,17,1
+523,Referral,426,39,Yes,Submitted Form,64,0
+524,Email,25,17,Yes,Downloaded Brochure,11,0
+525,Referral,423,37,Yes,Downloaded Brochure,79,0
+526,Cold Call,278,42,Yes,Clicked Ad,22,0
+527,Website,224,32,No,Clicked Ad,60,0
+528,Referral,453,21,Yes,Clicked Ad,34,0
+529,Email,467,39,No,Submitted Form,79,0
+530,Website,370,4,No,Contacted Support,44,1
+531,Email,282,27,No,Clicked Ad,61,1
+532,Website,138,9,Yes,Downloaded Brochure,48,1
+533,Cold Call,382,19,No,Submitted Form,54,0
+534,Social Media,39,14,No,Downloaded Brochure,63,0
+535,Referral,19,34,Yes,Downloaded Brochure,48,0
+536,Social Media,327,7,Yes,Clicked Ad,41,0
+537,Email,289,31,Yes,Contacted Support,97,0
+538,Referral,95,47,Yes,Clicked Ad,67,0
+539,Referral,33,27,No,Downloaded Brochure,19,0
+540,Social Media,5,6,Yes,Downloaded Brochure,17,0
+541,Social Media,104,12,No,Downloaded Brochure,13,0
+542,Social Media,89,4,No,Submitted Form,39,0
+543,Cold Call,23,14,No,Contacted Support,30,1
+544,Website,9,8,No,Clicked Ad,42,0
+545,Email,27,11,No,Contacted Support,88,0
+546,Email,273,39,Yes,Submitted Form,65,0
+547,Cold Call,393,32,Yes,Contacted Support,64,0
+548,Social Media,235,3,No,Downloaded Brochure,83,1
+549,Website,45,16,Yes,Clicked Ad,17,0
+550,Referral,194,43,Yes,Clicked Ad,34,0
+551,Website,370,18,No,Downloaded Brochure,73,0
+552,Social Media,173,33,Yes,Contacted Support,53,0
+553,Referral,293,41,Yes,Downloaded Brochure,68,0
+554,Social Media,20,23,No,Contacted Support,61,0
+555,Cold Call,297,41,No,Contacted Support,11,0
+556,Email,346,22,Yes,Submitted Form,13,1
+557,Website,23,20,Yes,Submitted Form,61,0
+558,Cold Call,294,1,No,Contacted Support,11,1
+559,Referral,380,4,No,Downloaded Brochure,16,0
+560,Email,439,31,No,Clicked Ad,62,0
+561,Cold Call,437,10,Yes,Contacted Support,34,0
+562,Email,477,13,No,Clicked Ad,47,0
+563,Social Media,395,45,No,Contacted Support,87,0
+564,Social Media,128,2,Yes,Downloaded Brochure,78,0
+565,Social Media,146,48,No,Submitted Form,70,0
+566,Website,242,17,No,Contacted Support,51,0
+567,Referral,30,37,Yes,Clicked Ad,21,0
+568,Cold Call,237,9,No,Downloaded Brochure,22,0
+569,Website,248,35,Yes,Submitted Form,23,0
+570,Referral,237,7,Yes,Contacted Support,85,0
+571,Referral,488,11,No,Downloaded Brochure,84,0
+572,Website,294,19,Yes,Downloaded Brochure,38,0
+573,Referral,99,16,No,Downloaded Brochure,55,0
+574,Social Media,57,7,Yes,Clicked Ad,27,0
+575,Website,440,27,No,Clicked Ad,39,0
+576,Referral,212,40,Yes,Clicked Ad,64,0
+577,Cold Call,377,31,No,Downloaded Brochure,18,0
+578,Referral,22,43,No,Downloaded Brochure,93,0
+579,Website,420,21,No,Downloaded Brochure,67,0
+580,Social Media,490,14,No,Submitted Form,46,0
+581,Email,131,32,Yes,Clicked Ad,23,1
+582,Website,49,14,Yes,Clicked Ad,38,0
+583,Cold Call,396,8,Yes,Submitted Form,12,0
+584,Cold Call,105,5,Yes,Downloaded Brochure,35,0
+585,Email,229,41,No,Submitted Form,82,1
+586,Referral,446,27,Yes,Contacted Support,49,1
+587,Social Media,218,32,Yes,Downloaded Brochure,41,1
+588,Email,61,12,No,Submitted Form,81,1
+589,Social Media,21,28,Yes,Downloaded Brochure,58,0
+590,Email,111,33,Yes,Clicked Ad,58,0
+591,Cold Call,190,20,No,Downloaded Brochure,32,1
+592,Email,148,40,Yes,Contacted Support,93,0
+593,Cold Call,35,23,Yes,Downloaded Brochure,33,0
+594,Website,108,6,Yes,Downloaded Brochure,95,0
+595,Social Media,216,20,No,Contacted Support,73,1
+596,Referral,95,41,No,Clicked Ad,10,1
+597,Referral,344,5,Yes,Clicked Ad,19,0
+598,Website,409,34,No,Submitted Form,39,0
+599,Social Media,151,9,Yes,Clicked Ad,16,0
+600,Website,85,3,Yes,Submitted Form,71,0
+601,Referral,47,41,No,Downloaded Brochure,65,1
+602,Email,421,15,Yes,Downloaded Brochure,92,1
+603,Cold Call,491,46,No,Submitted Form,63,0
+604,Email,185,49,Yes,Downloaded Brochure,78,0
+605,Website,231,34,Yes,Submitted Form,28,1
+606,Website,172,35,Yes,Clicked Ad,20,0
+607,Website,259,13,No,Submitted Form,52,1
+608,Website,408,19,No,Clicked Ad,11,0
+609,Referral,387,42,No,Submitted Form,49,0
+610,Social Media,381,4,Yes,Contacted Support,60,0
+611,Cold Call,103,13,No,Contacted Support,44,0
+612,Email,384,42,Yes,Downloaded Brochure,12,0
+613,Social Media,196,44,Yes,Submitted Form,96,0
+614,Email,466,26,Yes,Submitted Form,29,1
+615,Email,325,9,No,Downloaded Brochure,23,0
+616,Cold Call,445,8,No,Clicked Ad,99,0
+617,Email,345,12,No,Clicked Ad,36,0
+618,Cold Call,190,8,No,Downloaded Brochure,40,0
+619,Referral,152,15,Yes,Downloaded Brochure,44,1
+620,Referral,293,20,No,Contacted Support,49,0
+621,Referral,283,2,No,Submitted Form,92,1
+622,Referral,107,6,No,Submitted Form,83,0
+623,Cold Call,396,31,No,Clicked Ad,32,1
+624,Website,456,16,Yes,Downloaded Brochure,25,0
+625,Website,236,41,Yes,Contacted Support,15,1
+626,Social Media,255,42,No,Contacted Support,48,0
+627,Email,417,11,Yes,Contacted Support,66,0
+628,Website,28,9,Yes,Submitted Form,63,0
+629,Referral,59,27,Yes,Downloaded Brochure,75,0
+630,Email,282,23,No,Submitted Form,96,0
+631,Website,248,6,Yes,Submitted Form,39,1
+632,Cold Call,422,9,Yes,Downloaded Brochure,66,0
+633,Website,278,27,No,Downloaded Brochure,61,0
+634,Website,238,32,No,Submitted Form,35,0
+635,Social Media,228,26,No,Clicked Ad,87,0
+636,Email,325,17,Yes,Clicked Ad,95,0
+637,Social Media,132,15,Yes,Submitted Form,93,0
+638,Email,289,12,No,Submitted Form,42,0
+639,Social Media,149,5,No,Contacted Support,34,0
+640,Referral,64,4,No,Clicked Ad,68,0
+641,Social Media,108,26,Yes,Contacted Support,11,1
+642,Referral,114,41,Yes,Downloaded Brochure,72,1
+643,Website,391,13,Yes,Downloaded Brochure,22,1
+644,Social Media,77,37,Yes,Clicked Ad,83,0
+645,Referral,495,9,Yes,Contacted Support,51,0
+646,Website,403,6,Yes,Downloaded Brochure,80,0
+647,Social Media,191,43,No,Clicked Ad,77,0
+648,Social Media,337,10,No,Downloaded Brochure,67,0
+649,Social Media,345,26,Yes,Downloaded Brochure,23,1
+650,Social Media,312,47,No,Clicked Ad,72,1
+651,Social Media,172,35,No,Contacted Support,47,0
+652,Referral,360,8,No,Clicked Ad,40,0
+653,Referral,116,14,Yes,Submitted Form,84,0
+654,Email,449,29,No,Clicked Ad,92,0
+655,Website,253,26,Yes,Submitted Form,72,0
+656,Cold Call,244,30,Yes,Submitted Form,37,0
+657,Cold Call,325,37,No,Clicked Ad,59,0
+658,Cold Call,307,23,Yes,Submitted Form,28,0
+659,Referral,281,5,Yes,Submitted Form,34,0
+660,Referral,346,31,Yes,Downloaded Brochure,32,0
+661,Email,234,13,Yes,Contacted Support,91,1
+662,Website,192,11,No,Downloaded Brochure,22,0
+663,Referral,132,34,Yes,Contacted Support,43,1
+664,Social Media,372,45,Yes,Clicked Ad,77,0
+665,Email,340,22,No,Submitted Form,91,0
+666,Social Media,331,1,Yes,Contacted Support,26,1
+667,Email,98,37,Yes,Submitted Form,66,0
+668,Cold Call,423,13,Yes,Clicked Ad,29,1
+669,Referral,271,5,No,Contacted Support,87,0
+670,Cold Call,488,27,Yes,Submitted Form,54,0
+671,Cold Call,148,8,Yes,Downloaded Brochure,11,0
+672,Website,47,21,No,Contacted Support,39,1
+673,Email,180,17,No,Downloaded Brochure,97,0
+674,Social Media,136,44,Yes,Clicked Ad,17,0
+675,Email,382,12,Yes,Submitted Form,57,1
+676,Cold Call,7,40,No,Contacted Support,62,0
+677,Referral,101,9,Yes,Submitted Form,45,1
+678,Cold Call,236,39,Yes,Clicked Ad,76,0
+679,Cold Call,165,18,No,Submitted Form,82,0
+680,Website,58,38,Yes,Downloaded Brochure,26,0
+681,Referral,108,36,No,Clicked Ad,70,0
+682,Referral,486,11,No,Submitted Form,60,0
+683,Referral,452,10,Yes,Submitted Form,87,0
+684,Cold Call,366,33,No,Submitted Form,37,0
+685,Email,478,16,No,Clicked Ad,57,0
+686,Email,445,42,Yes,Submitted Form,33,0
+687,Social Media,325,21,No,Contacted Support,50,0
+688,Cold Call,445,8,No,Contacted Support,95,0
+689,Cold Call,342,32,Yes,Downloaded Brochure,36,0
+690,Referral,450,33,Yes,Downloaded Brochure,72,0
+691,Referral,362,22,Yes,Clicked Ad,60,0
+692,Cold Call,268,23,No,Downloaded Brochure,77,0
+693,Cold Call,197,9,No,Downloaded Brochure,69,0
+694,Social Media,405,34,No,Contacted Support,67,0
+695,Cold Call,126,41,No,Contacted Support,91,0
+696,Website,214,1,No,Contacted Support,40,0
+697,Cold Call,247,44,Yes,Downloaded Brochure,73,1
+698,Website,33,36,Yes,Contacted Support,38,0
+699,Cold Call,436,6,Yes,Clicked Ad,19,0
+700,Website,345,10,No,Submitted Form,44,0
+701,Website,132,31,No,Submitted Form,77,0
+702,Cold Call,364,16,No,Clicked Ad,42,0
+703,Email,312,8,No,Downloaded Brochure,70,0
+704,Referral,278,42,No,Downloaded Brochure,10,1
+705,Email,263,44,Yes,Contacted Support,36,0
+706,Cold Call,69,10,Yes,Submitted Form,73,1
+707,Email,123,19,Yes,Downloaded Brochure,74,0
+708,Website,324,27,No,Submitted Form,30,0
+709,Cold Call,23,14,Yes,Contacted Support,98,1
+710,Social Media,123,30,No,Downloaded Brochure,22,1
+711,Referral,101,6,No,Clicked Ad,72,0
+712,Referral,194,23,No,Submitted Form,51,0
+713,Cold Call,209,22,No,Clicked Ad,22,1
+714,Social Media,340,16,No,Contacted Support,58,0
+715,Social Media,293,29,Yes,Submitted Form,32,0
+716,Cold Call,44,30,Yes,Downloaded Brochure,27,0
+717,Email,46,13,Yes,Clicked Ad,16,0
+718,Referral,305,9,Yes,Submitted Form,72,0
+719,Referral,453,19,No,Contacted Support,85,0
+720,Email,284,39,No,Downloaded Brochure,95,0
+721,Website,57,44,Yes,Clicked Ad,34,0
+722,Website,398,27,No,Downloaded Brochure,95,0
+723,Social Media,14,47,No,Contacted Support,34,1
+724,Email,45,14,No,Clicked Ad,40,0
+725,Email,308,37,No,Contacted Support,54,0
+726,Cold Call,72,46,No,Downloaded Brochure,74,0
+727,Referral,364,37,No,Submitted Form,25,0
+728,Social Media,362,31,Yes,Downloaded Brochure,23,0
+729,Referral,177,23,No,Submitted Form,33,0
+730,Website,340,27,No,Contacted Support,47,0
+731,Referral,249,9,No,Contacted Support,41,0
+732,Referral,351,17,Yes,Clicked Ad,60,0
+733,Website,41,47,Yes,Downloaded Brochure,69,1
+734,Website,7,28,Yes,Downloaded Brochure,59,0
+735,Referral,11,34,Yes,Downloaded Brochure,94,0
+736,Website,120,16,No,Clicked Ad,32,0
+737,Email,192,41,No,Submitted Form,73,0
+738,Referral,19,6,Yes,Submitted Form,39,0
+739,Website,98,31,Yes,Submitted Form,63,0
+740,Referral,33,35,Yes,Submitted Form,43,0
+741,Cold Call,419,38,No,Submitted Form,10,0
+742,Website,495,24,No,Clicked Ad,35,1
+743,Website,261,34,No,Submitted Form,98,1
+744,Email,32,11,No,Clicked Ad,32,0
+745,Email,117,24,Yes,Clicked Ad,39,0
+746,Website,359,31,Yes,Clicked Ad,56,1
+747,Referral,322,45,Yes,Downloaded Brochure,56,0
+748,Email,386,10,No,Contacted Support,46,0
+749,Email,372,42,No,Contacted Support,45,0
+750,Social Media,37,1,Yes,Contacted Support,68,0
+751,Cold Call,128,4,Yes,Downloaded Brochure,15,0
+752,Cold Call,278,43,Yes,Clicked Ad,33,0
+753,Referral,266,37,No,Contacted Support,81,0
+754,Social Media,128,12,No,Contacted Support,97,0
+755,Cold Call,266,32,No,Clicked Ad,80,1
+756,Referral,326,33,No,Submitted Form,45,0
+757,Email,182,24,Yes,Downloaded Brochure,83,0
+758,Cold Call,7,4,No,Clicked Ad,38,1
+759,Referral,45,20,No,Downloaded Brochure,80,1
+760,Referral,366,18,No,Submitted Form,12,0
+761,Social Media,395,2,No,Downloaded Brochure,51,1
+762,Email,206,25,Yes,Downloaded Brochure,16,0
+763,Website,197,6,Yes,Clicked Ad,78,0
+764,Social Media,201,40,Yes,Contacted Support,90,0
+765,Email,419,34,No,Clicked Ad,19,0
+766,Social Media,283,26,No,Downloaded Brochure,89,0
+767,Social Media,320,6,No,Submitted Form,30,1
+768,Cold Call,321,18,Yes,Contacted Support,51,0
+769,Email,157,25,No,Contacted Support,79,0
+770,Email,387,37,No,Contacted Support,96,0
+771,Cold Call,80,12,Yes,Contacted Support,30,0
+772,Email,158,47,Yes,Clicked Ad,31,0
+773,Cold Call,408,43,Yes,Downloaded Brochure,45,0
+774,Website,191,42,Yes,Submitted Form,55,0
+775,Cold Call,378,35,No,Downloaded Brochure,69,0
+776,Website,224,25,No,Downloaded Brochure,21,1
+777,Cold Call,276,40,No,Contacted Support,66,0
+778,Social Media,86,24,Yes,Submitted Form,61,0
+779,Email,69,10,Yes,Submitted Form,15,0
+780,Cold Call,133,6,No,Contacted Support,38,0
+781,Social Media,57,46,Yes,Clicked Ad,78,0
+782,Cold Call,74,44,Yes,Clicked Ad,26,0
+783,Social Media,433,37,Yes,Contacted Support,71,0
+784,Social Media,122,38,Yes,Contacted Support,12,1
+785,Email,324,26,Yes,Clicked Ad,14,0
+786,Referral,186,10,Yes,Submitted Form,84,0
+787,Website,434,23,No,Contacted Support,90,0
+788,Cold Call,237,26,No,Clicked Ad,17,1
+789,Referral,248,36,No,Downloaded Brochure,91,0
+790,Cold Call,293,18,No,Downloaded Brochure,11,0
+791,Cold Call,147,3,Yes,Contacted Support,37,0
+792,Social Media,308,1,No,Contacted Support,90,0
+793,Website,438,44,Yes,Downloaded Brochure,78,1
+794,Website,67,38,No,Clicked Ad,85,0
+795,Social Media,442,34,No,Clicked Ad,68,1
+796,Referral,129,30,Yes,Clicked Ad,64,0
+797,Social Media,41,48,No,Contacted Support,94,1
+798,Cold Call,174,49,Yes,Clicked Ad,90,0
+799,Email,126,32,No,Clicked Ad,54,1
+800,Website,132,31,Yes,Clicked Ad,85,0
+801,Referral,193,15,No,Downloaded Brochure,91,0
+802,Email,227,47,No,Submitted Form,56,1
+803,Social Media,486,24,No,Downloaded Brochure,17,0
+804,Social Media,292,41,No,Submitted Form,69,1
+805,Referral,245,3,No,Downloaded Brochure,11,0
+806,Social Media,389,19,Yes,Clicked Ad,27,0
+807,Referral,38,8,Yes,Clicked Ad,18,0
+808,Referral,150,25,No,Downloaded Brochure,27,1
+809,Referral,382,2,No,Contacted Support,74,0
+810,Email,424,34,No,Contacted Support,85,1
+811,Social Media,172,41,Yes,Downloaded Brochure,67,1
+812,Cold Call,496,4,No,Contacted Support,73,0
+813,Referral,258,43,Yes,Downloaded Brochure,46,0
+814,Email,315,16,No,Submitted Form,18,0
+815,Email,405,21,No,Clicked Ad,93,0
+816,Referral,433,20,No,Submitted Form,85,0
+817,Referral,182,10,No,Downloaded Brochure,44,0
+818,Email,485,27,Yes,Submitted Form,12,0
+819,Website,19,29,Yes,Contacted Support,59,0
+820,Email,368,28,Yes,Submitted Form,32,0
+821,Social Media,253,15,Yes,Submitted Form,71,0
+822,Social Media,113,12,Yes,Downloaded Brochure,28,0
+823,Referral,153,1,No,Submitted Form,56,1
+824,Social Media,391,9,No,Contacted Support,58,1
+825,Email,409,27,Yes,Clicked Ad,18,0
+826,Referral,408,48,Yes,Clicked Ad,17,0
+827,Referral,101,36,No,Contacted Support,63,0
+828,Cold Call,353,36,No,Downloaded Brochure,99,1
+829,Referral,403,19,No,Downloaded Brochure,47,0
+830,Email,382,28,Yes,Submitted Form,86,0
+831,Website,412,31,No,Clicked Ad,49,0
+832,Referral,13,19,Yes,Clicked Ad,69,1
+833,Social Media,366,16,Yes,Clicked Ad,79,0
+834,Cold Call,53,3,No,Contacted Support,17,0
+835,Social Media,395,6,Yes,Downloaded Brochure,95,0
+836,Referral,492,47,Yes,Submitted Form,45,0
+837,Referral,228,45,No,Downloaded Brochure,82,0
+838,Website,1,41,Yes,Downloaded Brochure,82,0
+839,Cold Call,134,47,Yes,Downloaded Brochure,90,0
+840,Email,351,48,No,Contacted Support,27,0
+841,Cold Call,102,9,Yes,Downloaded Brochure,22,1
+842,Email,228,20,Yes,Contacted Support,80,0
+843,Email,226,19,Yes,Submitted Form,24,0
+844,Email,443,10,Yes,Contacted Support,75,1
+845,Social Media,133,1,Yes,Downloaded Brochure,88,0
+846,Email,221,22,No,Clicked Ad,83,1
+847,Social Media,334,14,Yes,Clicked Ad,63,0
+848,Cold Call,43,5,Yes,Downloaded Brochure,92,1
+849,Social Media,227,11,No,Clicked Ad,14,1
+850,Social Media,18,41,No,Submitted Form,77,0
+851,Email,346,25,No,Clicked Ad,42,0
+852,Email,189,11,No,Contacted Support,85,0
+853,Social Media,135,4,No,Submitted Form,89,0
+854,Email,88,47,Yes,Clicked Ad,17,0
+855,Social Media,17,49,Yes,Submitted Form,61,0
+856,Referral,489,25,Yes,Submitted Form,68,1
+857,Cold Call,64,21,Yes,Contacted Support,35,0
+858,Email,457,4,Yes,Clicked Ad,73,0
+859,Email,253,18,No,Clicked Ad,17,1
+860,Email,467,17,Yes,Clicked Ad,67,0
+861,Email,61,15,No,Contacted Support,99,0
+862,Website,210,4,No,Clicked Ad,43,0
+863,Referral,438,24,No,Clicked Ad,98,1
+864,Cold Call,420,27,Yes,Submitted Form,35,1
+865,Social Media,24,5,No,Contacted Support,50,0
+866,Referral,447,31,No,Clicked Ad,72,0
+867,Website,186,14,No,Contacted Support,46,0
+868,Referral,226,45,Yes,Clicked Ad,11,0
+869,Website,187,43,Yes,Downloaded Brochure,47,0
+870,Referral,342,49,Yes,Contacted Support,81,0
+871,Social Media,370,48,Yes,Contacted Support,14,0
+872,Referral,448,4,Yes,Submitted Form,46,1
+873,Referral,154,10,No,Downloaded Brochure,65,0
+874,Website,362,20,Yes,Submitted Form,29,1
+875,Referral,387,10,Yes,Downloaded Brochure,59,1
+876,Email,392,24,Yes,Contacted Support,21,1
+877,Referral,294,44,No,Contacted Support,59,1
+878,Cold Call,255,7,No,Submitted Form,23,0
+879,Social Media,155,38,No,Downloaded Brochure,61,0
+880,Cold Call,372,47,Yes,Clicked Ad,34,1
+881,Social Media,474,35,Yes,Downloaded Brochure,66,0
+882,Email,394,25,No,Downloaded Brochure,36,1
+883,Cold Call,131,12,No,Clicked Ad,23,0
+884,Website,385,48,Yes,Clicked Ad,61,0
+885,Social Media,299,40,No,Submitted Form,16,1
+886,Social Media,422,6,Yes,Submitted Form,36,1
+887,Referral,119,44,No,Submitted Form,51,1
+888,Email,467,42,Yes,Submitted Form,68,0
+889,Referral,2,29,Yes,Downloaded Brochure,88,1
+890,Website,302,27,No,Clicked Ad,11,1
+891,Social Media,436,27,No,Downloaded Brochure,78,0
+892,Cold Call,265,18,No,Submitted Form,71,0
+893,Email,312,6,No,Downloaded Brochure,43,0
+894,Website,281,9,Yes,Downloaded Brochure,38,0
+895,Email,159,24,No,Clicked Ad,22,0
+896,Website,120,38,No,Downloaded Brochure,19,1
+897,Cold Call,354,17,No,Contacted Support,94,0
+898,Website,64,6,Yes,Submitted Form,47,0
+899,Referral,64,28,No,Downloaded Brochure,76,0
+900,Social Media,90,47,Yes,Contacted Support,35,0
+901,Cold Call,324,45,No,Downloaded Brochure,68,1
+902,Referral,472,47,No,Contacted Support,92,1
+903,Referral,408,22,Yes,Clicked Ad,53,1
+904,Referral,32,21,No,Clicked Ad,98,1
+905,Email,86,6,No,Downloaded Brochure,73,0
+906,Website,95,15,No,Submitted Form,45,0
+907,Referral,76,2,No,Clicked Ad,73,1
+908,Cold Call,337,40,No,Submitted Form,83,0
+909,Cold Call,205,20,No,Downloaded Brochure,61,1
+910,Website,177,7,Yes,Downloaded Brochure,41,0
+911,Email,201,9,No,Submitted Form,58,1
+912,Email,294,30,Yes,Submitted Form,18,0
+913,Website,206,16,No,Submitted Form,71,0
+914,Cold Call,475,48,No,Clicked Ad,67,0
+915,Website,408,19,No,Submitted Form,30,0
+916,Cold Call,20,47,No,Clicked Ad,24,0
+917,Email,487,44,No,Downloaded Brochure,43,0
+918,Email,256,23,Yes,Contacted Support,48,0
+919,Website,444,24,No,Contacted Support,86,1
+920,Social Media,319,9,No,Downloaded Brochure,86,1
+921,Referral,371,41,No,Contacted Support,57,0
+922,Referral,173,36,No,Contacted Support,16,0
+923,Referral,440,35,No,Submitted Form,89,0
+924,Website,154,40,No,Clicked Ad,16,1
+925,Cold Call,355,17,No,Downloaded Brochure,83,1
+926,Email,89,13,No,Submitted Form,42,0
+927,Website,351,42,Yes,Clicked Ad,66,0
+928,Social Media,106,36,No,Contacted Support,60,0
+929,Cold Call,346,13,Yes,Submitted Form,68,0
+930,Cold Call,485,41,No,Contacted Support,70,0
+931,Website,26,28,No,Contacted Support,23,1
+932,Email,494,34,No,Clicked Ad,15,0
+933,Social Media,3,33,No,Submitted Form,77,0
+934,Email,11,15,Yes,Contacted Support,75,0
+935,Referral,401,49,Yes,Clicked Ad,83,0
+936,Referral,53,30,Yes,Clicked Ad,26,0
+937,Cold Call,332,32,Yes,Downloaded Brochure,76,0
+938,Email,134,11,No,Submitted Form,34,0
+939,Social Media,126,47,Yes,Clicked Ad,66,0
+940,Website,195,26,Yes,Submitted Form,59,0
+941,Cold Call,401,18,Yes,Clicked Ad,30,0
+942,Website,174,35,Yes,Downloaded Brochure,69,0
+943,Website,318,10,Yes,Clicked Ad,25,1
+944,Referral,350,36,Yes,Clicked Ad,45,0
+945,Website,331,4,No,Submitted Form,24,1
+946,Website,378,33,No,Clicked Ad,37,1
+947,Social Media,343,8,Yes,Contacted Support,46,1
+948,Email,224,11,No,Contacted Support,75,1
+949,Social Media,206,41,Yes,Contacted Support,44,1
+950,Cold Call,429,49,Yes,Clicked Ad,96,0
+951,Website,279,8,No,Downloaded Brochure,62,0
+952,Email,82,40,No,Downloaded Brochure,28,0
+953,Social Media,408,35,No,Downloaded Brochure,94,1
+954,Website,395,19,No,Downloaded Brochure,30,0
+955,Referral,167,35,No,Clicked Ad,48,0
+956,Email,470,11,No,Submitted Form,40,0
+957,Website,430,36,Yes,Downloaded Brochure,45,0
+958,Cold Call,279,42,No,Submitted Form,68,1
+959,Referral,110,7,No,Downloaded Brochure,52,0
+960,Email,264,21,No,Downloaded Brochure,78,1
+961,Cold Call,110,24,No,Contacted Support,27,0
+962,Cold Call,262,8,No,Clicked Ad,66,0
+963,Website,78,16,No,Contacted Support,32,1
+964,Email,83,24,Yes,Submitted Form,37,0
+965,Website,343,29,Yes,Submitted Form,73,0
+966,Social Media,479,40,No,Downloaded Brochure,23,0
+967,Referral,485,40,No,Clicked Ad,50,1
+968,Social Media,80,46,No,Contacted Support,30,0
+969,Email,28,27,Yes,Submitted Form,44,0
+970,Cold Call,40,21,Yes,Submitted Form,10,0
+971,Website,381,30,No,Contacted Support,28,0
+972,Website,183,3,No,Clicked Ad,86,0
+973,Website,359,17,No,Submitted Form,73,0
+974,Cold Call,34,33,Yes,Downloaded Brochure,48,0
+975,Email,61,19,No,Clicked Ad,90,1
+976,Cold Call,183,35,Yes,Contacted Support,74,0
+977,Email,152,26,Yes,Downloaded Brochure,81,1
+978,Social Media,138,24,No,Submitted Form,49,0
+979,Social Media,42,36,No,Contacted Support,60,0
+980,Email,303,2,No,Contacted Support,20,0
+981,Cold Call,22,35,No,Clicked Ad,63,0
+982,Referral,287,14,No,Contacted Support,25,0
+983,Social Media,290,42,No,Contacted Support,68,0
+984,Email,434,42,Yes,Clicked Ad,23,1
+985,Cold Call,388,10,No,Downloaded Brochure,62,0
+986,Email,211,25,Yes,Downloaded Brochure,47,0
+987,Social Media,327,10,No,Contacted Support,43,1
+988,Email,171,2,Yes,Clicked Ad,13,0
+989,Email,98,48,Yes,Downloaded Brochure,19,0
+990,Referral,362,30,Yes,Contacted Support,58,0
+991,Referral,29,49,Yes,Submitted Form,84,0
+992,Email,398,39,No,Contacted Support,98,0
+993,Cold Call,35,2,Yes,Contacted Support,36,0
+994,Referral,168,24,No,Clicked Ad,97,0
+995,Email,438,21,No,Contacted Support,19,0
+996,Website,202,36,No,Downloaded Brochure,35,0
+997,Referral,249,43,No,Downloaded Brochure,58,0
+998,Email,249,34,No,Downloaded Brochure,29,0
+999,Referral,144,4,Yes,Contacted Support,57,0
+1000,Referral,323,47,No,Clicked Ad,31,0
